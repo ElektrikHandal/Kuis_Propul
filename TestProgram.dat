@@ -1,0 +1,36 @@
+ Name       :   HItler                                            
+ ID number  :   13623057
+ Note: Check the ID number, if not equal to your input, contact the assistant.
+ 
+ Instruction:
+ - Put your answer in TestAnswer.dat    file (only its value, without unit).
+ - Try to not rounding off all calculation results.
+ - Use a point for decimal separator (not comma), and do not use commas as thousand separators.
+ - Follow instruction carefully and dont change the answer-file name and format.
+ 
+ Problem.
+ Below are the recorded data of a turbojet engine during static thrust testing at 300 K and 98000 Pa.
+ Engine thrust (N)               = 23057.0
+ Air mass flow rate (kg/s)       =    23.0
+ Fuel mass flow rate (kg/s)      =  .46000
+ 
+ Note:
+ The engine thrust, air mass flow rate and fuel mass flow rate shall follow the formulas below.
+ Thrust	= nim(5)*10000 + nim(4)*1000 + nim(3)*100 +nim(2)*10 + nim(1)*1
+ Air mass flow rate = nim(5)*10 + nim(4)
+ Fuel mass flow rate = Air mass flow rate / 50
+ 
+ Please manually calculate the thrust, air mass flow rate, and fuel mass flow rate to verify the data.
+ If any of these values cannot be confirmed, please contact the assistant.
+ 
+ Based on the data, calculate.
+ 
+ A
+ 1.  Air density (kg/m3) if R = 287 J/kgK.
+ 2.  Air specific heat ratio.
+ 
+ B
+ 1.  Specific thrust (Ns/kg).
+ 2.  Fuel - air ratio.
+ 3.  Specific fuel consumption (g/Ns).
+ 

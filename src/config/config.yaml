@@ -1,0 +1,20 @@
+baseline:
+  V: 210
+  p: 22612
+  T: 216.65
+  net_thrust: 7482
+  air_mass_flow: 21
+  fuel_mass_flow: 0.378
+  rpm: 25000
+  fuel_heating_value: 42600000
+
+conditions:
+  second:
+    V: 270
+    p: 38245
+    T: 239.40
+
+  static:
+    V: 0
+    p: 101325
+    T: 288.15
